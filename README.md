@@ -2,7 +2,7 @@
 
 [中文](README.md) | [English](README.en.md)
 
-**一句话总结**：问题生成（Question Generation）任务中，大模型拿到的是一段*答案*，需要还原出*原始问题*。当 prompt 已经把任务说清楚以后，再改写 prompt 的措辞收效甚微。本项目换一个角度：通过挑选加入 prompt 的 **few-shot 示例（demonstration）** 来提升生成问题的质量。项目在 2 个数据集、20 个 prompt 上，对比了三种 shot 选择策略：最相似、最多样，以及二者结合。
+**项目简介**：问题生成（Question Generation）任务中，大模型拿到的是一段*答案*，需要还原出*原始问题*。当 prompt 已经把任务说清楚以后，再改写 prompt 的措辞收效甚微。本项目换一个角度：通过挑选加入 prompt 的 **few-shot 示例（demonstration）** 来提升生成问题的质量。项目在 2 个数据集、20 个 prompt 上，对比了三种 shot 选择策略：最相似、最多样，以及二者结合。
 
 ## 亮点
 
