@@ -2,8 +2,6 @@
 
 [中文](README.md) | [English](README.en.md)
 
-Code and data for the paper **"Prompt Informativeness Optimization for Conditional Question Generation"** (Diyang Xie, China Jiliang University). [📄 Paper (PDF)](paper/Prompt_Informativeness_Optimization_for_Conditional_Question_Generation.pdf)
-
 **TL;DR**: In question generation, an LLM receives an *answer* and has to recover the *original question*. Once a prompt already states the task clearly, rewording it further helps very little. This project improves question quality by choosing which **few-shot demonstrations** to add to the prompt. It compares three shot-selection strategies (most similar, most diverse, and a mix of the two) across 20 prompts on two datasets.
 
 ## Highlights
