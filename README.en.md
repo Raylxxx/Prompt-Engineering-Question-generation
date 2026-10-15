@@ -171,9 +171,8 @@ Generation and GPT-4 scoring append to `outputs/` and skip finished items, so an
 
 ## Limitations
 
-- Each dataset contributes only 50 inputs, and every configuration was run once. Many differences between methods are small (≤ 0.03 cosine), so they should be read as trends rather than statistically significant gaps.
+
 - Only `gpt-3.5-turbo` was used as the generator, and the embeddings are spaCy word-vector averages.
-- "Maximum entropy" is a greedy diversity heuristic. No entropy is actually computed.
 - GPT-4 scores were not calibrated against human judgments.
 
 ## Citation
