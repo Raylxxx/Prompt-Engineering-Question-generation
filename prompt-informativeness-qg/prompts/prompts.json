@@ -1,0 +1,22 @@
+[
+  {"id": "A", "source": "base (Amyeen, 2023)", "text": "Generate 5 questions from the given text."},
+  {"id": "B", "source": "base (Amyeen, 2023)", "text": "Generate 5 complex questions derived from the text."},
+  {"id": "C", "source": "base (Amyeen, 2023)", "text": "Generate 5 questions from the text; make sure the questions can be answered."},
+  {"id": "D", "source": "base (Amyeen, 2023)", "text": "Generate 5 questions from the text; answer the question in the text; if the question is answered in the context, output 5 questions."},
+  {"id": "E", "source": "A Variation", "text": "Derive 5 questions based on the given information."},
+  {"id": "F", "source": "A Variation", "text": "Create 5 queries by extracting information from the text."},
+  {"id": "G", "source": "A Modification", "text": "Generate 5 inquiries by analyzing the content provided."},
+  {"id": "H", "source": "A Twist", "text": "Formulate 5 questions based on insights gathered from the text."},
+  {"id": "I", "source": "B Adaptation", "text": "Craft 5 intricate questions requiring detailed analysis from the text."},
+  {"id": "J", "source": "B Variation", "text": "Develop 5 complex queries demanding a nuanced understanding of the provided information."},
+  {"id": "K", "source": "B Modification", "text": "Derive 5 intricate questions necessitating an in-depth interpretation of the text."},
+  {"id": "L", "source": "B Twist", "text": "Generate 5 complex inquiries demanding a sophisticated grasp of the information provided."},
+  {"id": "M", "source": "C Adaptation", "text": "Formulate 5 questions ensuring there are definitive answers within the text."},
+  {"id": "N", "source": "C Variation", "text": "Create 5 interrogations with clear and obtainable answers sourced directly from the text."},
+  {"id": "O", "source": "C Modification", "text": "Derive 5 questions ensuring that the text holds explicit answers for each."},
+  {"id": "P", "source": "C Twist", "text": "Craft 5 questions ensuring the text provides unequivocal answers to each inquiry."},
+  {"id": "Q", "source": "D Adaptation", "text": "Generate 5 questions with corresponding answers found within the context; if not, answer them based on the text."},
+  {"id": "R", "source": "D Variation", "text": "Create 5 inquiries; answer the questions within the text, and if not evident, provide contextual answers."},
+  {"id": "S", "source": "D Modification", "text": "Derive 5 questions and answer them within the text; if not explicitly answered, provide context-based responses."},
+  {"id": "T", "source": "D Twist", "text": "Formulate 5 questions; if the answers are not explicit, answer them based on the context provided in the text."}
+]
